@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flashlight/static/css/main.5f361e03.chunk.css",
+    "main.js": "/flashlight/static/js/main.1bfd3ee3.chunk.js",
+    "main.js.map": "/flashlight/static/js/main.1bfd3ee3.chunk.js.map",
+    "runtime-main.js": "/flashlight/static/js/runtime-main.7483e44a.js",
+    "runtime-main.js.map": "/flashlight/static/js/runtime-main.7483e44a.js.map",
+    "static/js/2.e4ebc84d.chunk.js": "/flashlight/static/js/2.e4ebc84d.chunk.js",
+    "static/js/2.e4ebc84d.chunk.js.map": "/flashlight/static/js/2.e4ebc84d.chunk.js.map",
+    "index.html": "/flashlight/index.html",
+    "precache-manifest.e37ab31eb1c1bffd43dcb83849dd7147.js": "/flashlight/precache-manifest.e37ab31eb1c1bffd43dcb83849dd7147.js",
+    "service-worker.js": "/flashlight/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/flashlight/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e4ebc84d.chunk.js.LICENSE.txt": "/flashlight/static/js/2.e4ebc84d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/flashlight/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7483e44a.js",
+    "static/js/2.e4ebc84d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1bfd3ee3.chunk.js"
+  ]
+}
